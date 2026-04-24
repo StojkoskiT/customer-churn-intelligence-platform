@@ -29,7 +29,7 @@ Logistic Regression was selected as the final model due to better performance in
 
 ## 🖥️ Application
 
-![App Screenshot](reports/figures/app_screenshot.png)
+![App Screenshot](reports/figures/)
 
 The application allows users to:
 - Input customer data
